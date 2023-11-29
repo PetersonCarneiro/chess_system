@@ -1,6 +1,6 @@
 # Chess System
 # First class: Position
- Checklist:
+Checklist:
   - Class Position [public]
   - OOP Topics:
   - Encapsulation
@@ -8,10 +8,29 @@
   - ToString (Object / overriding)
 
 #  Starting to implement Board and Piece
-  Checklist:
+Checklist:
   - Classes Piece, Board [public]
   - OOP Topics:
   - Associations
   - Encapsulation / Access Modifiers
+  - Data Structures Topics:
+  - Matrix
+  - 
+# Chess layer and printing the board
+
+Checklist: 
+
+  - Methods: Board.Piece(row, column) and Board.Piece(position)
+  - Enum Chess.Color
+  - Class Chess.ChessPiece [public]
+  - Class Chess.ChessMatch [public]
+  - Class ChessConsole.UI
+  - OOP Topics:
+  - Enumerations
+  - Encapsulation / Access Modifiers
+  - Inheritance
+  - Downcasting
+  - Static members
+  - Layers pattern
   - Data Structures Topics:
   - Matrix
