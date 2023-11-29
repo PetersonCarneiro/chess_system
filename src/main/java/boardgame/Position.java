@@ -31,7 +31,7 @@ public class Position {
     public void setValues(int row, int column){
 
     }
-
+    @Override
     public String toString(){
         return row + ", " + column;
     }
