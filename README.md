@@ -57,3 +57,18 @@ Checklist:
   - OOP Topics:
   - Exceptions
   - o Constructors (a string must be informed to the exception)
+  - 
+# ChessException and ChessPosition
+
+Checklist:
+
+  - Class ChessException [public]
+  - Class ChessPosition [public]
+  - Refactor ChessMatch.InitialSetup
+  - OOP Topics:
+  - Exceptions
+  - Encapsulation
+  - Constructors (a string must be informed to the exception)
+  - Overriding
+  - Static members
+  - Layers pattern
