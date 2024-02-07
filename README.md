@@ -72,3 +72,15 @@ Checklist:
   - Overriding
   - Static members
   - Layers pattern
+
+# Moving pieces
+Checklist:
+  - Method Board.RemovePiece
+  - Method UI.ReadChessPosition
+  - Method ChessMatch.PerformChessMove
+  - Method ChessMatch.MakeMove
+  - Method ChessMatch.ValidadeSourcePosition
+  - Write basic logic on Program.cs
+  - OOP Topics:
+  - Exceptions
+  - Encapsulation
